@@ -122,7 +122,9 @@ function handleComplete() {
 function toggleLoader(con){
 	if(con){
 		$('#mainLoader').show();
+		$('#logoHolder').show();
 	}else{
 		$('#mainLoader').hide();
+		$('#logoHolder').hide();
 	}
-}
+};
