@@ -136,6 +136,12 @@ canvas{ position:fixed;}
 /*
  * Image replacement
  */
+ .logo {
+    width: 150px;
+	align-items: center;
+}
+
+ 
 .ir {
 background-color: transparent;
 border: 0;
