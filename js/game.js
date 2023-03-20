@@ -10,8 +10,8 @@
 //Game Text
 var loadingText = 'LOADING...'; //text for loading xml
 
-var logoWordParagraph1 = 'gobo'; //text for logo paragraph 1
-var logoWordParagraph2 = 'learns'; //text for logo paragraph 2
+var logoWordParagraph1 = 'gobo learns'; //text for logo paragraph 1
+var logoWordParagraph2 = '  ui/ux  '; //text for logo paragraph 2
 //Note all letters enter in logo must exist in letters_arr array list else it will stop the game
 
 var startButtonText = 'TAP TO BEGIN'; //text for start button
@@ -43,14 +43,16 @@ var showAudioDescIcon = true; //show/hide description audio icon
 var exitMessage = 'Are you sure you want\nto quit the game?'; //quit game message
 
 //Social share, [SCORE] will replace with game score
-var shareEnable = true; //toggle share
+var shareEnable = false; //toggle share
 var shareText ='SHARE IT NOW'; //text for share instruction
 var shareTitle = 'Highscore on GLC Learns Interactivity is [SCORE]';//social share score title
 var shareMessage = '[SCORE] is mine new highscore on GLC Learns Interactivity! Try it now!'; //social share score message
 
 var limitWords = 0; //limit the amount of words, default 0 to disable 
 
-var letters_arr = [{letter:'a', src:'assets/letter_a.png'},
+var letters_arr = [{letter:' ', src:'assets/letter_space.png'},
+					{letter:'/', src:'assets/letter_slash.png'},
+					{letter:'a', src:'assets/letter_a.png'},
 					{letter:'b', src:'assets/letter_b.png'},
 					{letter:'c', src:'assets/letter_c.png'},
 					{letter:'d', src:'assets/letter_d.png'},
@@ -400,7 +402,7 @@ function saveGame(score){
  */
 var logoWordY1 = 0;
 var logoWordY2 = 0;
-var logoWordWidth1 = -50;
+var logoWordWidth1 = 0;
 var logoWordWidth2 = 0;
 var mainLetterScale = 1;
 

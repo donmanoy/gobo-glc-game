@@ -1,110 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <words>
 	<item>
-		<answer>Password</answer>
-		<description><![CDATA[ A secret word or phrase that must be used to gain admission to a place. ]]></description>
-		<category>word</category>
+		<answer>accessibility</answer>
+		<description><![CDATA[ The measure of a web page’s usability by persons with one or more disabilities. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>giraffe</answer>
-		<description><![CDATA[ It is the tallest living animal. ]]></description>
-		<category>word</category>
+		<answer>fold</answer>
+		<description><![CDATA[ The area where the initial visible screen of the website ends. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>axe</answer>
-		<description><![CDATA[ A tool used for chopping wood. ]]></description>
-		<category>word</category>
+		<answer>responsive</answer>
+		<description><![CDATA[ An optimal viewing experience across platforms and devices. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>pineapple</answer>
-		<description><![CDATA[ A large juicy tropical fruit consisting of aromatic edible yellow flesh surrounded by a tough segmented skin and topped with a tuft of stiff leaves. ]]></description>
-		<category>word</category>
+		<answer>prototype</answer>
+		<description><![CDATA[ A simulation of a website or any digital medium for testing. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
 		<answer>iphone</answer>
 		<description><![CDATA[ A line of smartphones designed and marketed by Apple Inc. ]]></description>
-		<category>word</category>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>playstation</answer>
-		<description><![CDATA[ A video game console developed by Sony. ]]></description>
-		<category>word</category>
+		<answer>waterfall</answer>
+		<description><![CDATA[ The transition phase where design moves to development. It is also a well-known TLC song. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>basketball</answer>
-		<description><![CDATA[ A sport played by two teams of five players on a rectangular court. ]]></description>
-		<category>word</category>
+		<answer>widget</answer>
+		<description><![CDATA[ An on-screen element that users interact with. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>frozen</answer>
-		<description><![CDATA[ Let it go. Let it goooooooo. ]]></description>
-		<category>movie</category>
-		<audioAnswer>assets/sounds/word/frozen.ogg</audioAnswer>
-		<audioDesc>assets/sounds/word/frozen_desc.ogg</audioDesc>
+		<answer>interface</answer>
+		<description><![CDATA[ The layout or design of the interactive elements of a computer program, an online service, or an electronic device. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>twilight</answer>
-		<description><![CDATA[ A girl finds herself having to choose between an attractive man who stands up for her, and a man whose complexion isn't as nice, but enjoys talking about her emotions. ]]></description>
-		<category>movie</category>
-		<audioAnswer>assets/sounds/word/twilight.ogg</audioAnswer>
-		<audioDesc>assets/sounds/word/twilight_desc.ogg</audioDesc>
+		<answer>button</answer>
+		<description><![CDATA[ Instructs a user through text, images or both to take an action. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>titanic</answer>
-		<description><![CDATA[ A large iceberg's peaceful, calm life comes to an abrupt end as largest ship collides with it. ]]></description>
-		<category>movie</category>
-		<audioAnswer>assets/sounds/word/titanic.ogg</audioAnswer>
-		<audioDesc>assets/sounds/word/titanic_desc.ogg</audioDesc>
+		<answer>icon</answer>
+		<description><![CDATA[  Basic version of the original image that helps users navigate a web page or app. Must be warm. ]]></description>
+		<category>ui/ux</category>
 	</item>
 	
 	<item>
-		<answer>incorrectly</answer>
-		<description><![CDATA[ Which word in the dictionary is spelled incorrectly? ]]></description>
-		<category>riddle</category>
-		<audioAnswer>assets/sounds/word/incorrectly.ogg</audioAnswer>
-		<audioDesc>assets/sounds/word/incorrectly_desc.ogg</audioDesc>
+		<answer>animation</answer>
+		<description><![CDATA[ Adding motion to any UI element to improve a product’s interactivity. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/animation.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/animation_desc.ogg</audioDesc>
 	</item>
 	
 	<item>
-		<answer>secret</answer>
-		<description><![CDATA[ If you have me, you want to share me. If you share me, you haven't got me. ]]></description>
-		<category>riddle</category>
-		<audioAnswer>assets/sounds/word/secret.ogg</audioAnswer>
-		<audioDesc>assets/sounds/word/secret_desc.ogg</audioDesc>
+		<answer>storyboard</answer>
+		<description><![CDATA[ They are a film technique we’ve adopted and look a lot like comic strips. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/storyboard.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/storyboard_desc.ogg</audioDesc>
 	</item>
 	
 	<item>
-		<answer>cold</answer>
-		<description><![CDATA[ What can you catch but not throw? ]]></description>
-		<category>riddle</category>
-		<audioAnswer>assets/sounds/word/cold.ogg</audioAnswer>
-		<audioDesc>assets/sounds/word/cold_desc.ogg</audioDesc>
+		<answer>comment</answer>
+		<description><![CDATA[ A display for feedbacks from users. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/comment.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/comment_desc.ogg</audioDesc>
 	</item>
 	
 	<item>
-		<answer>banana</answer>
+		<answer>user</answer>
+		<description><![CDATA[ A person who uses a computer, device, or application. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/user.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/user_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>analytics</answer>
+		<description><![CDATA[ Collection of data points that help you measure the performance of your social media accounts. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/analytics.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/analytics_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>media</answer>
+		<description><![CDATA[ A type of platform how content is catered. It may be visual or audio. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/media.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/media_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>chatbot</answer>
+		<description><![CDATA[ A program that simulates a real conversation with a user. ]]></description>
+		<category>dynamic</category>
+		<audioAnswer>assets/sounds/word/chatbot.ogg</audioAnswer>
+		<audioDesc>assets/sounds/word/chatbot_desc.ogg</audioDesc>
+	</item>
+	
+	<item>
+		<answer>avatar</answer>
 		<category>picture</category>
-		<imageDesc>assets/pictures/banana.png</imageDesc>
+		<imageDesc>assets/pictures/avatar.png</imageDesc>
 	</item>
 	
 	<item>
-		<answer>umbrella</answer>
+		<answer>breadcrumb</answer>
 		<category>picture</category>
-		<imageDesc>assets/pictures/umbrella.png</imageDesc>
+		<imageDesc>assets/pictures/breadcrumb.png</imageDesc>
 	</item>
 	
 	<item>
-		<answer>elephant</answer>
+		<answer>flowchart</answer>
 		<category>picture</category>
-		<imageDesc>assets/pictures/elephant.png</imageDesc>
+		<imageDesc>assets/pictures/flowchart.png</imageDesc>
+	</item>
+	
+	<item>
+		<answer>wireframe</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/wireframe.png</imageDesc>
+	</item>
+	
+	<item>
+		<answer>form</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/form.png</imageDesc>
+	</item>
+	
+	<item>
+		<answer>toggle</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/toggle.png</imageDesc>
+	</item>
+	
+	<item>
+		<answer>checkbox</answer>
+		<category>picture</category>
+		<imageDesc>assets/pictures/checkbox.png</imageDesc>
 	</item>
 </words>
