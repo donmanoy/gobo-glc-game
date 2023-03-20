@@ -10,8 +10,8 @@
 //Game Text
 var loadingText = 'LOADING...'; //text for loading xml
 
-var logoWordParagraph1 = 'gobo learns'; //text for logo paragraph 1
-var logoWordParagraph2 = 'interactivity'; //text for logo paragraph 2
+var logoWordParagraph1 = 'gobo'; //text for logo paragraph 1
+var logoWordParagraph2 = 'learns'; //text for logo paragraph 2
 //Note all letters enter in logo must exist in letters_arr array list else it will stop the game
 
 var startButtonText = 'TAP TO BEGIN'; //text for start button
