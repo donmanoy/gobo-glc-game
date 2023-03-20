@@ -43,7 +43,7 @@ var showAudioDescIcon = true; //show/hide description audio icon
 var exitMessage = 'Are you sure you want\nto quit the game?'; //quit game message
 
 //Social share, [SCORE] will replace with game score
-var shareEnable = false; //toggle share
+var shareEnable = true; //toggle share
 var shareText ='SHARE IT NOW'; //text for share instruction
 var shareTitle = 'Highscore on GLC Learns Interactivity is [SCORE]';//social share score title
 var shareMessage = '[SCORE] is mine new highscore on GLC Learns Interactivity! Try it now!'; //social share score message
