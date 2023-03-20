@@ -398,7 +398,7 @@ function saveGame(score){
  * MAIN LETTERS - This is the function that runs to build main logo letters
  * 
  */
-var logoWordY1 = 40;
+var logoWordY1 = -40;
 var logoWordY2 = 0;
 var logoWordWidth1 = 0;
 var logoWordWidth2 = 0;
