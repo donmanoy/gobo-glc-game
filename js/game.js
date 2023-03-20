@@ -14,7 +14,7 @@ var logoWordParagraph1 = 'gobo learns'; //text for logo paragraph 1
 var logoWordParagraph2 = '  ui/ux  '; //text for logo paragraph 2
 //Note all letters enter in logo must exist in letters_arr array list else it will stop the game
 
-var startButtonText = 'TAP TO BEGIN'; //text for start button
+var startButtonText = 'Rearrange the letters to get the correct answer\nTAP TO BEGIN'; //text for start button
 var revealText = 'REVEAL ANSWER'; //text for reveal answer button
 var showDescription = true; //show/hide description
 var showRevealButton = true; // show/hide reveal button
