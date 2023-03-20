@@ -63,7 +63,7 @@
 	<item>
 		<answer>animation</answer>
 		<description><![CDATA[ Adding motion to any UI element to improve a product’s interactivity. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/animation.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/animation_desc.ogg</audioDesc>
 	</item>
@@ -71,7 +71,7 @@
 	<item>
 		<answer>storyboard</answer>
 		<description><![CDATA[ They are a film technique we’ve adopted and look a lot like comic strips. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/storyboard.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/storyboard_desc.ogg</audioDesc>
 	</item>
@@ -79,7 +79,7 @@
 	<item>
 		<answer>comment</answer>
 		<description><![CDATA[ A display for feedbacks from users. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/comment.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/comment_desc.ogg</audioDesc>
 	</item>
@@ -87,7 +87,7 @@
 	<item>
 		<answer>user</answer>
 		<description><![CDATA[ A person who uses a computer, device, or application. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/user.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/user_desc.ogg</audioDesc>
 	</item>
@@ -95,7 +95,7 @@
 	<item>
 		<answer>analytics</answer>
 		<description><![CDATA[ Collection of data points that help you measure the performance of your social media accounts. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/analytics.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/analytics_desc.ogg</audioDesc>
 	</item>
@@ -103,7 +103,7 @@
 	<item>
 		<answer>media</answer>
 		<description><![CDATA[ A type of platform how content is catered. It may be visual or audio. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/media.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/media_desc.ogg</audioDesc>
 	</item>
@@ -111,7 +111,7 @@
 	<item>
 		<answer>chatbot</answer>
 		<description><![CDATA[ A program that simulates a real conversation with a user. ]]></description>
-		<category>dynamic</category>
+		<category>dev end</category>
 		<audioAnswer>assets/sounds/word/chatbot.ogg</audioAnswer>
 		<audioDesc>assets/sounds/word/chatbot_desc.ogg</audioDesc>
 	</item>
