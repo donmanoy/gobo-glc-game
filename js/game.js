@@ -402,7 +402,7 @@ var logoWordY1 = 0;
 var logoWordY2 = 0;
 var logoWordWidth1 = 0;
 var logoWordWidth2 = 0;
-var mainLetterScale = -10;
+var mainLetterScale = 0.25;
 
 $.mainLettersHolder = {};
 $.mainLettersShadow = {};
