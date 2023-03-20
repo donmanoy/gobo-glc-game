@@ -10,8 +10,8 @@
 //Game Text
 var loadingText = 'LOADING...'; //text for loading xml
 
-var logoWordParagraph1 = 'rearrange'; //text for logo paragraph 1
-var logoWordParagraph2 = 'letters'; //text for logo paragraph 2
+var logoWordParagraph1 = 'gobo learns'; //text for logo paragraph 1
+var logoWordParagraph2 = 'interactivity'; //text for logo paragraph 2
 //Note all letters enter in logo must exist in letters_arr array list else it will stop the game
 
 var startButtonText = 'TAP TO BEGIN'; //text for start button
@@ -45,8 +45,8 @@ var exitMessage = 'Are you sure you want\nto quit the game?'; //quit game messag
 //Social share, [SCORE] will replace with game score
 var shareEnable = true; //toggle share
 var shareText ='SHARE IT NOW'; //text for share instruction
-var shareTitle = 'Highscore on Rearrange Letters is [SCORE]';//social share score title
-var shareMessage = '[SCORE] is mine new highscore on Rearrange Letters! Try it now!'; //social share score message
+var shareTitle = 'Highscore on GLC Learns Interactivity is [SCORE]';//social share score title
+var shareMessage = '[SCORE] is mine new highscore on GLC Learns Interactivity! Try it now!'; //social share score message
 
 var limitWords = 0; //limit the amount of words, default 0 to disable 
 
