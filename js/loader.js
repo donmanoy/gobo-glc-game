@@ -126,10 +126,3 @@ function toggleLoader(con){
 		$('#mainLoader').hide();
 	}
 }
-function toggleLoader(con){
-	if(con){
-		$('#logoHolder').show();
-	}else{
-		$('#logoHolder').hide();
-	}
-}
